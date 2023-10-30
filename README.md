@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joseph Archibong</h1>
-<h3 align="center">A passionate data analyst from Nigeria</h3>
+<h3 align="center">A data analyst</h3>
 
-- 🔭 I’m currently working on [Danny Ma's 8WeeksChallenge](https://github.com/josepharchibong/8-Weeks-Challenge)
+- 🔭 I’m currently working on [Danny Ma's 8WeeksChallenge](https://github.com/josepharchibong/8-Weeks-Challenge), [Techavilly's 30DayChallenge](https://github.com/josepharchibong/Techavilly-30DayChallenge)
 
-- 🌱 I’m currently learning **Tableu, R**
+- 🌱 I’m currently learning **Tableau, R**
 
 - 👯 I’m looking to collaborate on **any data analysis project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/josepharchibong?tab=repositories](https://github.com/josepharchibong?tab=repositories)
 
 - 💬 Ask me about **SQL, Excel**
 
