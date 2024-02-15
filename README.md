@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Danny Ma's 8WeeksChallenge](https://github.com/josepharchibong/8-Weeks-Challenge), [Techavilly's 30DayChallenge](https://github.com/josepharchibong/Techavilly-30DayChallenge)
 
-- 🌱 I’m currently learning **Tableau, R**
+- 🌱 I’m currently learning **Power BI, R**
 
 - 👯 I’m looking to collaborate on **any data analysis project**
 
