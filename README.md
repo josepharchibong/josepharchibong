@@ -8,12 +8,11 @@
 <img src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/media/9024f46db50c2378ee0dc095a394c20d.gif" alt="Animated GIF" width="500" height="400"/>
 
 </center>
+
+
+
+
 <hr/>
-
-
-
-
-
 <h2 align="left">👩‍🚀About me:</h2>
 
 - 🧠 I have a genuine interest in data and the meaningful insights that come from it.
