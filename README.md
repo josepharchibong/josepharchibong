@@ -66,7 +66,9 @@
 
 <p align="center"> 
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 </p>
 
 Other Tools include:
@@ -102,14 +104,12 @@ Other Tools include:
 
 
 <h2 align="left">⚡ Stats ⚡</h2>
-<br>
 <div align=left>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashy-sigma.vercel.app?user=josepharchibong&theme=onedark-duo" alt="GitHub Streak" /></a>
-  <img width=450 src="https://github-readme-stats.vercel.app/api?username=josepharchibong&theme=dark&show_icons=true" alt="readme stats" />
-  <br/>
-<!-- <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=josepharchibong&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"
-</div> -->
-
 <br/><br/>
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=josepharchibong&theme=dark&show_icons=true" alt="readme stats" />
+<!-- <br/>
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=josepharchibong&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"
+</div>
 
 <hr/>
