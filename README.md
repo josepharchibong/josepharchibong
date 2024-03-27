@@ -3,12 +3,12 @@
 
 ## I am a Mathematics & Statistics Graduate and a Data Analyst
 
+<center>
+
 ![GIF](https://cdn.dribbble.com/users/2147021/screenshots/4704853/media/9024f46db50c2378ee0dc095a394c20d.gif)
 
-<!-- <center>
-  <img src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/media/9024f46db50c2378ee0dc095a394c20d.gif" alt="Animated GIF" width="500" height="380">
-</center></h1>
-<hr/> -->
+</center>
+<hr/>
 
 
 
