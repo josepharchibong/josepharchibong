@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, My name is Joseph Archibong</h1>
 
+<h2 align="center">I am a Mathematics & Statistics Graduate and a Data Analyst</h2>
 <center>
 
 ## I am a Mathematics & Statistics Graduate and a Data Analyst
