@@ -29,12 +29,7 @@
 ## I am a Mathematics & Statistics Graduate and a Data Analyst
 
 <center>
-  <img src="https://cdn.dribbble.com/users/720738/screenshots/3848385/media/3fb3a31b0a1fd949593feab51cf712a0.gif" alt="Animated GIF" width="400" height="300">
-</center>
-<hr/>
-
-<center>
-  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" width="400" height="300">
+  <img src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/media/9024f46db50c2378ee0dc095a394c20d.gif" alt="Animated GIF" width="400" height="300">
 </center>
 <hr/>
 
