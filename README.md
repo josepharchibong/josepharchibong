@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, My name is Joseph Archibong
+<h1 align="center">Hi 👋, My name is Joseph Archibong</h1>
 
 <center>
 
