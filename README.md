@@ -29,7 +29,7 @@
 ## I am a Mathematics & Statistics Graduate and a Data Analyst
 
 <center>
-  <img src="https://cdn.dribbble.com/users/720738/screenshots/3848385/media/3fb3a31b0a1fd949593feab51cf712a0.gif" alt="Animated GIF" width="500" height="400">
+  <img src="https://cdn.dribbble.com/users/720738/screenshots/3848385/media/3fb3a31b0a1fd949593feab51cf712a0.gif" alt="Animated GIF" width="400" height="300">
 </center>
 
 
@@ -38,23 +38,21 @@
 
 <h2 align="left">👩‍🚀About me:</h2>
 
-- 🧠 I have a knack for transforming raw data into meaningful insights.
+- 🧠 I have a genuine interest in data and the meaningful insights that come from it.
   
-- 💻 I love leveraging technology to tackle complex problems and delivering impactful solutions.
-  
-- 📊 Continuous learning is a core part of my professional code. I always strive to stay updated in the fiels of data analytics, keeping my skills sharp and current. 
+- 📊 Continuous learning is a core part of my professional code. I always strive to stay updated in the field of data analytics, keeping my skills sharp and current. 
 
 - 🔭 I’m currently working on [Cleaning a Food Choices Survey data](https://github.com/josepharchibong/Data-Cleaning-with-SQL)
 
-- 🌱 I’m currently learning **Power BI, R**
+- 🌱 I work with **SQL, MS Excel, Power BI and Python**
   
 - 🤝 Let's connect and collaborate on exciting data projects! Feel free to explore my [repositories](https://github.com/josepharchibong?tab=repositories) and reach out if you have questions or ideas to share.
 
-- 👐 I am open to Job opportunities
+- 👐 I am open to job opportunities
   
-- 📫 How to reach me: [Email](mailto:josepharchibong.u@gmail.com)
+- 📫 Reach me via [email](mailto:josepharchibong.u@gmail.com)
   
-- ⚡ Fun fact **I am a bread fanatic. I enjoy listening to music, playing car race games and solving quick mental maths.**
+- ⚡ Fun fact **I love bread. I enjoy listening to music, playing car race games and solving quick math problems.**
 <hr/>
 
 
